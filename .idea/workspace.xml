@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8832f8f6-2c2d-4aeb-a665-911fb538b9b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="8832f8f6-2c2d-4aeb-a665-911fb538b9b9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="208" column="12" lean-forward="true" selection-start-line="208" selection-start-column="12" selection-end-line="208" selection-end-column="12" />
+            <state relative-caret-position="278">
+              <caret line="206" selection-start-line="206" selection-end-line="206" />
             </state>
           </provider>
         </entry>
@@ -112,7 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1551452737058</updated>
       <workItem from="1551452738480" duration="531000" />
-      <workItem from="1551465498174" duration="4067000" />
+      <workItem from="1551465498174" duration="4310000" />
     </task>
     <task id="LOCAL-00001" summary="updated with animation">
       <created>1551468733354</created>
@@ -121,11 +119,25 @@
       <option name="project" value="LOCAL" />
       <updated>1551468733354</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated with social media">
+      <created>1551469699494</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551469699494</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated with social media">
+      <created>1551469884350</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551469884350</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4598000" />
+    <option name="totallyTimeSpent" value="4841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="335" y="0" width="1395" height="1000" extended-state="0" />
@@ -156,7 +168,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated with animation" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated with animation" />
+    <MESSAGE value="updated with social media" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated with social media" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/animate.css">
@@ -168,8 +181,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="208" column="12" lean-forward="true" selection-start-line="208" selection-start-column="12" selection-end-line="208" selection-end-column="12" />
+        <state relative-caret-position="278">
+          <caret line="206" selection-start-line="206" selection-end-line="206" />
         </state>
       </provider>
     </entry>
