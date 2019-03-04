@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8832f8f6-2c2d-4aeb-a665-911fb538b9b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8832f8f6-2c2d-4aeb-a665-911fb538b9b9" name="Default Changelist" comment="updated title and banner">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="39" column="73" lean-forward="true" selection-start-line="39" selection-start-column="73" selection-end-line="39" selection-end-column="73" />
+            <state relative-caret-position="374">
+              <caret line="85" column="70" selection-start-line="85" selection-start-column="70" selection-end-line="85" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -67,6 +66,11 @@
               <item name="techialist.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="techialist.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techialist.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -105,7 +109,7 @@
       <updated>1551452737058</updated>
       <workItem from="1551452738480" duration="531000" />
       <workItem from="1551465498174" duration="6013000" />
-      <workItem from="1551736044844" duration="115000" />
+      <workItem from="1551736044844" duration="401000" />
     </task>
     <task id="LOCAL-00001" summary="updated with animation">
       <created>1551468733354</created>
@@ -135,11 +139,25 @@
       <option name="project" value="LOCAL" />
       <updated>1551471107414</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updated title and banner">
+      <created>1551736228251</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1551736228251</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated title and banner">
+      <created>1551736262515</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1551736262515</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6659000" />
+    <option name="totallyTimeSpent" value="6945000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="335" y="0" width="1395" height="1000" extended-state="0" />
@@ -159,7 +177,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3298731" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.3298731" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -171,7 +189,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated with animation" />
     <MESSAGE value="updated with social media" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated with social media" />
+    <MESSAGE value="updated title and banner" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated title and banner" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/animate.css">
@@ -181,10 +200,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg-masthead.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="39" column="73" lean-forward="true" selection-start-line="39" selection-start-column="73" selection-end-line="39" selection-end-column="73" />
+        <state relative-caret-position="374">
+          <caret line="85" column="70" selection-start-line="85" selection-start-column="70" selection-end-line="85" selection-end-column="70" />
         </state>
       </provider>
     </entry>
